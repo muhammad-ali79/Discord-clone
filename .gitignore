@@ -1,0 +1,3 @@
+*.svg
+*./node-modules
+*./main.css
